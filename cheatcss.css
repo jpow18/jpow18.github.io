@@ -1,0 +1,33 @@
+body {
+    background: linear-gradient(#84CEEB, #8860D0);
+    
+}
+
+table {
+    border: 3px groove #C1C8E4;
+    background: linear-gradient(to top right, #84CEEB, #8860D0)
+}
+
+th {
+    font-size: 1.1em;
+}
+
+tr, 
+td {
+    border: 2px ridge lightslategray
+}
+
+#tabletitle {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    cursor: point;
+    color: rgb(39, 43, 157);
+    font-weight: bold;
+}
+
+a:hover {
+    color: rgb(77, 0, 132);
+}
